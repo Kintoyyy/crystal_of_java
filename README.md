@@ -4,6 +4,10 @@ A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://git
 
 This project was generated with a template including simple application launchers and an `ApplicationAdapter` extension that draws libGDX logo.
 
+## To RUN the program
+
+goto [DesktopLauncher.java](lwjgl3/src/main/java/io/github/crystal_of_java/lwjgl3/DesktopLauncher.java) and run the program
+
 ## Platforms
 
 - `core`: Main module with the application logic shared by all platforms.
